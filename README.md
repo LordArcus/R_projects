@@ -1,4 +1,6 @@
-# This is small data analysis project where i have done web scraping, data cleaning and data analysis
+# Salary data analysis of 5000 employees
+
+This is small data analysis project where i have done web scraping, data cleaning and data analysis
 
 Data source: https://salaries.texastribune.org/search/?q=Department+of+public+sefty
 
